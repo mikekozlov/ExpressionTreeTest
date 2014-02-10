@@ -10,8 +10,6 @@ namespace ExpressionTreeTest
     {
         static void Main(string[] args)
         {
-            var a = 12;
-            
         }
     }
 }
